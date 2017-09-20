@@ -12,7 +12,7 @@ public class UserTest {
     @Before
     public void before() {
         us = new User(2, "aitor", "bernal");
-    }
+    } 
 
     @Test
     public void testUser() {
