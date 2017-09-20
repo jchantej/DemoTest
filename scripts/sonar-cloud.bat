@@ -1,5 +1,5 @@
 @echo off
-set workspace=C:\Users\Chante\Documents\ProyectosEclipce\IWVG.SwC.JuanJimenez
+set workspace=C:\Users\Chante\Documents\ProyectosEclipce\DemoTest
 ::Las variables de entorno se pueden configurar directamente en Windows cuando se tienen los permisos necesarios
 set JAVA_HOME=C:\Program Files\Java\jdk1.8.0_60
 set M2_HOME=C:\Archivos_de_Programa\apache-maven-3.5.0
